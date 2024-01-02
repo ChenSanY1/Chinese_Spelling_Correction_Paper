@@ -1,4 +1,4 @@
-# Chinese_Spelling_Correction_Paper
+# Chinese Spelling Correction Papers
 
 ## 2023 (15)
 
