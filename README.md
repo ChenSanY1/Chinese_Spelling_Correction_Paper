@@ -2,17 +2,17 @@
 
 ## 2023
 
-|                            Paper                             | Time | Conference |                           Resource                           |                     Code                      |
-| :----------------------------------------------------------: | ---- | :--------: | :----------------------------------------------------------: | :-------------------------------------------: |
-| Disentangled Phonetic Representation for Chinese Spelling Correction | 2023 |    ACL     | [PDF]([2305.14783.pdf (arxiv.org)](https://arxiv.org/pdf/2305.14783.pdf)) | [Code](https://github.com/liangzh63/dorm-csc) |
-| Rethinking Masked Language Modeling for Chinese Spelling Correction | 2023 |    ACL     |           [PDF](https://arxiv.org/abs/2305.17721)            |   [Code](https://github.com/gingasan/lemon)   |
-| PTCSpell: Pre-trained Corrector Based on Character Shape and Pinyin for Chinese Spelling Correction | 2023 |    ACL     |  [PDF](https://aclanthology.org/2023.findings-acl.394.pdf)   |                                               |
-| Investigating Glyph-Phonetic Information for Chinese Spell Checking: What Works and What’s Next? | 2023 |    ACL     |   [PDF](https://aclanthology.org/2023.findings-acl.1.pdf)    |                                               |
-| UMRSpell Unifying the Detection and Correction Parts of Pre-trained | 2023 |    ACL     |    [PDF](https://aclanthology.org/2023.acl-long.570.pdf)     |                                               |
-| A Frustratingly Easy Plug-and-Play Detection-and-Reasoning Module for Chinese Spelling Check | 2023 |   EMNLP    |           [PDF](https://arxiv.org/abs/2310.09119)            |  [Code](https://github.com/thukelab/dr-csc)   |
-|    MarkBERT Marking Word Boundaries Improves Chinese BERT    | 2023 |   NAACL    |           [PDF](https://arxiv.org/abs/2203.06378)            | [Code](https://github.com/daiyongya/markbert) |
-| RSpell Retrieval-augmented Framework for Domain Adaptive Chinese Spelling Check | 2023 |   NACCL    |           [PDF](https://arxiv.org/abs/2308.08176)            |  [Code](https://github.com/47777777/rspell)   |
-| A Comprehensive Evaluation and Analysis Study for Chinese Spelling Check | 2023 |            |           [PDF](https://arxiv.org/abs/2307.13655)            |                                               |
+|                            Paper                             | Time | Conference |                         Resource                          |                     Code                      |
+| :----------------------------------------------------------: | ---- | :--------: | :-------------------------------------------------------: | :-------------------------------------------: |
+| Disentangled Phonetic Representation for Chinese Spelling Correction | 2023 |    ACL     |        [PDF](https://arxiv.org/pdf/2305.14783.pdf)        | [Code](https://github.com/liangzh63/dorm-csc) |
+| Rethinking Masked Language Modeling for Chinese Spelling Correction | 2023 |    ACL     |          [PDF](https://arxiv.org/abs/2305.17721)          |   [Code](https://github.com/gingasan/lemon)   |
+| PTCSpell: Pre-trained Corrector Based on Character Shape and Pinyin for Chinese Spelling Correction | 2023 |    ACL     | [PDF](https://aclanthology.org/2023.findings-acl.394.pdf) |                                               |
+| Investigating Glyph-Phonetic Information for Chinese Spell Checking: What Works and What’s Next? | 2023 |    ACL     |  [PDF](https://aclanthology.org/2023.findings-acl.1.pdf)  |                                               |
+| UMRSpell Unifying the Detection and Correction Parts of Pre-trained | 2023 |    ACL     |   [PDF](https://aclanthology.org/2023.acl-long.570.pdf)   |                                               |
+| A Frustratingly Easy Plug-and-Play Detection-and-Reasoning Module for Chinese Spelling Check | 2023 |   EMNLP    |          [PDF](https://arxiv.org/abs/2310.09119)          |  [Code](https://github.com/thukelab/dr-csc)   |
+|    MarkBERT Marking Word Boundaries Improves Chinese BERT    | 2023 |   NAACL    |          [PDF](https://arxiv.org/abs/2203.06378)          | [Code](https://github.com/daiyongya/markbert) |
+| RSpell Retrieval-augmented Framework for Domain Adaptive Chinese Spelling Check | 2023 |   NACCL    |          [PDF](https://arxiv.org/abs/2308.08176)          |  [Code](https://github.com/47777777/rspell)   |
+| A Comprehensive Evaluation and Analysis Study for Chinese Spelling Check | 2023 |            |          [PDF](https://arxiv.org/abs/2307.13655)          |                                               |
 
 ## 2022
 
@@ -45,7 +45,7 @@
 |      Sparsity Regularization for Chinese Spelling Check      | 2021 |      ACL       |       [PDF](https://openreview.net/pdf?id=lMQ2TTkQo51)       |                                                          |
 | SpellBERT: A Lightweight Pretrained Model for Chinese Spelling Check | 2021 |     EMNLP      |   [PDF](https://aclanthology.org/2021.emnlp-main.287.pdf)    |     [Code](https://github.com/benbijituo/spellbert)      |
 | Self-Supervised Curriculum Learning for Spelling Error Correction | 2021 |     EMNLP      |   [PDF](https://aclanthology.org/2021.emnlp-main.281.pdf)    |                                                          |
-| An Alignment-Agnostic Model for Chinese Text Error Correction | 2021 |     EMNLP      |                             PDF                              |                                                          |
+| An Alignment-Agnostic Model for Chinese Text Error Correction | 2021 |     EMNLP      |           [PDF](https://arxiv.org/abs/2104.07190)            |                                                          |
 | DCSpell: A Detector-Corrector Framework for Chinese Spelling Error Correction | 2021 |     SIGIR      | [PDF](https://dl.acm.org/doi/10.1145/3404835.3463050#sec-supp) |                                                          |
 | Think Twice: A Post-Processing Approach for the Chinese Spelling Error Correction | 2021 | AppliedScience |       [PDF](https://www.mdpi.com/2076-3417/11/13/5832)       |                                                          |
 | Domain-shift Conditioning using Adaptable Filtering via Hierarchical Embeddings for Robust Chinese Spell Check | 2021 |     TASLP      |           [PDF](https://arxiv.org/pdf/2008.12281)            |        [Code](https://github.com/mnhng/HeadFilt)         |
