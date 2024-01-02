@@ -1,6 +1,6 @@
 # Chinese_Spelling_Correction_Paper
 
-## 2023
+## 2023 (15)
 
 |                            Paper                             | Time | Conference |                         Resource                          |                     Code                      |
 | :----------------------------------------------------------: | ---- | :--------: | :-------------------------------------------------------: | :-------------------------------------------: |
@@ -13,8 +13,14 @@
 |    MarkBERT Marking Word Boundaries Improves Chinese BERT    | 2023 |   NAACL    |          [PDF](https://arxiv.org/abs/2203.06378)          | [Code](https://github.com/daiyongya/markbert) |
 | RSpell Retrieval-augmented Framework for Domain Adaptive Chinese Spelling Check | 2023 |   NACCL    |          [PDF](https://arxiv.org/abs/2308.08176)          |  [Code](https://github.com/47777777/rspell)   |
 | A Comprehensive Evaluation and Analysis Study for Chinese Spelling Check | 2023 |            |          [PDF](https://arxiv.org/abs/2307.13655)          |                                               |
+| Block the Label and Noise An N-Gram Masked Speller for Chinese Spell Checking | 2023 |            |          [PDF](https://arxiv.org/abs/2305.03314)          |                                               |
+|   Chinese Spelling Correction as Rephrasing Language Model   | 2023 |            |          [PDF](https://arxiv.org/abs/2308.08796)          |   [Code](https://github.com/gingasan/lemon)   |
+| Eval-GCSC A New Metric for Evaluating ChatGPT’s Performance in Chinese Spelling Correction | 2023 |            |          [PDF](https://arxiv.org/abs/2311.08219)          |  [Code](https://github.com/ktlktl/eval-gcsc)  |
+|     Exploring the Usage of Chinese Pinyin in Pretraining     | 2023 |            |          [PDF](https://arxiv.org/abs/2310.04960)          |                                               |
+| Make BERT-based Chinese Spelling Check Model Enhanced by Layerwise Attention and Gaussian Mixture Model | 2023 |            |          [PDF](https://arxiv.org/abs/2312.16623)          |                                               |
+| Towards Real-World Writing Assistance A Chinese Character Checking Benchmark with Faked and Misspelled Characters | 2023 |            |          [PDF](https://arxiv.org/abs/2311.11268)          |                                               |
 
-## 2022
+## 2022 (12)
 
 |                            Paper                             | Time | Conference |                         Resource                          |                             Code                             |
 | :----------------------------------------------------------: | :--: | :--------: | :-------------------------------------------------------: | :----------------------------------------------------------: |
@@ -31,7 +37,7 @@
 | SDCL Self-Distillation Contrastive Learning for Chinese Spell Checking | 2022 |            |          [PDF](https://arxiv.org/abs/2210.17168)          |                                                              |
 | A Chinese Spelling Check Framework Based on Reverse Contrastive Learning | 2022 |            |        [PDF](https://arxiv.org/pdf/2210.13823.pdf)        |                                                              |
 
-## 2021
+## 2021 (14)
 
 |                            Paper                             | Time |   Conference   |                           Resource                           |                           Code                           |
 | :----------------------------------------------------------: | :--: | :------------: | :----------------------------------------------------------: | :------------------------------------------------------: |
@@ -50,7 +56,7 @@
 | Think Twice: A Post-Processing Approach for the Chinese Spelling Error Correction | 2021 | AppliedScience |       [PDF](https://www.mdpi.com/2076-3417/11/13/5832)       |                                                          |
 | Domain-shift Conditioning using Adaptable Filtering via Hierarchical Embeddings for Robust Chinese Spell Check | 2021 |     TASLP      |           [PDF](https://arxiv.org/pdf/2008.12281)            |        [Code](https://github.com/mnhng/HeadFilt)         |
 
-## Before
+## Before (8)
 
 |                            Paper                             | Time | Conference |                          Resource                           |                             Code                             |
 | :----------------------------------------------------------: | :--: | :--------: | :---------------------------------------------------------: | :----------------------------------------------------------: |
